@@ -1,3 +1,4 @@
+_________________________________________________________________________________
 Exercises for the previously created antiquarian bookstore database:
 
 1)
